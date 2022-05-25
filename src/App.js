@@ -23,7 +23,7 @@ class App extends Component {
 
           <Route path="/favorites" component={ Favorites } />
 
-          <Route path="/profile" component={ Profile } />
+          <Route exact path="/profile" component={ Profile } />
 
           <Route path="/profile/edit" component={ ProfileEdit } />
 
