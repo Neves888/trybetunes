@@ -20,7 +20,7 @@ class MusicCard extends React.Component {
     });
     if (target.checked) {
       this.setState({ like: true });
-      await addSong(songInfo);
+      await addSong(infoMusic);
     } else {
       this.setState({ like: false });
       await removeSong(infoMusic);
