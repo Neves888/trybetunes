@@ -1,10 +1,21 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto TrybeTunes 🎶 🎧
+
+Neste projeto foi desevolvido uma aplicação para reproduzir músicas 📻
+
+# Foi Desenvolvido:  
+<ul>
+  <li>Criação de login;</li>
+  <li>Ver o perfil da pessoa logada;</li>
+  <li>Editar o perfil da pessoa logada;</li>
+  <li>Filtro de banda ou artista;</li>
+  <li>Lista dos álbuns disponíveis da banda ou artista;</li>
+  <li>Visualização das músicas de um álbum selecionado;</li>
+  <li>Reprodução prévia das músicas de um álbum;</li>
+  <li>Favoritar e desfavoritar músicas;</li>
+  <li>Ver a lista de músicas favoritas.</li>
+</ul>
+
+
+
+
+
